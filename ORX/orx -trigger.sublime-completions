@@ -168,8 +168,6 @@
 { "trigger": "AutoReset \t= bool", "contents": "AutoReset = ${1:false}$0" },
 { "trigger": "UseAlpha \t= bool", "contents": "UseAlpha = ${1:false}$0" },
 { "trigger": "UseColor \t= bool", "contents": "UseColor = ${1:false}$0" },
-{ "trigger": "UseRotation \t= bool", "contents": "UseRotation = ${1:true}$0" },
-{ "trigger": "UseScale \t= bool", "contents": "UseScale = ${1:true}$0" },
 { "trigger": "UseRelativeSpeed \t= bool", "contents": "UseRelativeSpeed = ${1:false}$0" },
 { "trigger": "UseSelfAsParent \t= bool", "contents": "UseSelfAsParent = ${1:false}$0" },
 { "trigger": "CleanOnDelete \t= bool", "contents": "CleanOnDelete = ${1:false}$0" },
@@ -189,13 +187,11 @@
 { "trigger": "FullScreen \t= bool", "contents": "FullScreen = ${1:false}$0" },
 { "trigger": "Decoration \t= bool", "contents": "Decoration = ${1:true}$0" },
 { "trigger": "AllowResize \t= bool", "contents": "AllowResize = ${1:false}$0" },
-{ "trigger": "Smoothing \t= bool", "contents": "Smoothing = ${1:false}$0" },
 { "trigger": "VSync \t= bool", "contents": "VSync = ${1:true}$0" },
 { "trigger": "DepthBuffer \t= bool", "contents": "DepthBuffer = ${1:false}$0" },
 { "trigger": "ShowFPS \t= bool", "contents": "ShowFPS = ${1:false}$0" },
 { "trigger": "ShowProfiler \t= bool", "contents": "ShowProfiler = ${1:false}$0" },
 { "trigger": "ShowCursor \t= bool", "contents": "ShowCursor = ${1:true}$0" },
-{ "trigger": "AllowSleep \t= bool", "contents": "AllowSleep = ${1:true}$0" },
 { "trigger": "ShowDebug \t= bool", "contents": "ShowDebug = ${1:false}$0" },
 
 
