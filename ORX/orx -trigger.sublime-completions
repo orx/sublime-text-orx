@@ -8,7 +8,6 @@
 { "trigger": "AnimationFrequency \t= float", "contents": "AnimationFrequency = ${1:1.0}" },
 { "trigger": "Body \t= BodyTemplate", "contents": "Body = ${1:BodyTemplate}" },
 { "trigger": "Spawner \t= SpawnerTemplate", "contents": "Spawner = ${1:SpawnerTemplate}" },
-{ "trigger": "ParentCamera \t= CameraTemplate", "contents": "ParentCamera = ${1:CameraTemplate}" },
 { "trigger": "Text \t= TextTemplate", "contents": "Text = ${1:TextTemplate}" },
 { "trigger": "Font \t= FontTemplate", "contents": "Font = ${1:FontTemplate}" },
 { "trigger": "Camera \t= CameraTemplate", "contents": "Camera = ${1:CameraTemplate}" },
